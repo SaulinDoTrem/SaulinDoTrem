@@ -1,7 +1,9 @@
-### Salve, salve família eu sou o Saulin e sou garoto de programa 😎
+### Me chamo Saulo Klein Nery sou Desenvolvedor e Graduando em Sistemas de Informação
+Sou apaixonado por esse mundo tech, muito interessado em todas as partes de um sistema e sempre buscando mais conhecimento técnico.
+Gosto de futebol, games, música, animais e zoar bastante com os amigos. Me acho comunicativo mas posso melhorar bastante ainda.
+Sei falar inglês, um pouco de espanhol e tenho interesse em diversas outras línguas, tentando aprender francês enquanto pratico mais o meu inglês agora.
+Tenho mais conhecimentos na parte do back mas gosto muito de front também, trabalho atualmente como Full Stack Cloud Developer.
 
-### Save Save family I'm Saulin and I'm a program boy (literal translation)😎
-#
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaulinDoTrem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
